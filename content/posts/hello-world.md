@@ -4,4 +4,4 @@ date: 2021-10-23T23:31:54-07:00
 draft: false
 ---
 
-Kicking off writing, here we go again.
+Here we go again. This will not be a showcase of leetcode skills, this will mostly be random scribbles.
