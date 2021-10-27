@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://harsha-y.github.io/sitemap.xml
