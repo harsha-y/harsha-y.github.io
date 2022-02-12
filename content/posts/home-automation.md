@@ -8,9 +8,9 @@ Once I finally got to the point of being able to buy a home and call it my own, 
 
 Alas.
 
-Practicaly real life is sledom ideal. A few scenarios I ran into that I'm sure every other home owner has struggled with.
+Practicaly real life is seldom ideal. A few scenarios I ran into that I'm sure every other homeowner has struggled with.
 
-(Let's exclude "smart" from all of the following topics)
+(Let's exclude "smart" from all of the following topics, I'm sure it is implied)
 
 # Front Door
 Went ahead and started researching our (formerly before the nytimes acquisition) trusted friend Wirecutter's [recommendations](https://www.nytimes.com/wirecutter/reviews/the-best-smart-lock/).
