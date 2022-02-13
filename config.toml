@@ -10,10 +10,6 @@ enableRobotsTXT = false
 
 googleAnalytics: G-25VBY92GP3
 
-minify:
-  disableXML: true
-  minifyOutput: true
-
 params:
   env: production
   ShowReadingTime: true
