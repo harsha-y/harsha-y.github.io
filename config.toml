@@ -8,8 +8,6 @@ enableRobotsTXT = false
   category = 'categories'
   tag = 'tags'
 
-googleAnalytics: G-25VBY92GP3
-
 params:
   env: production
   ShowReadingTime: true
