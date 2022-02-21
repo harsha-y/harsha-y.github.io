@@ -1,5 +1,6 @@
 ---
-title: "Home Automation - Front Door"
+title: "Front Door"
+slug: "front-door"
 date: 2022-02-11T23:17:14-08:00
 draft: false
 categories:
