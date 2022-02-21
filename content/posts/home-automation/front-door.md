@@ -1,7 +1,7 @@
 ---
 title: "Home Automation - Front Door"
 date: 2022-02-11T23:17:14-08:00
-draft: true
+draft: false
 categories:
 - Home Automation
 tags:
