@@ -1,7 +1,7 @@
 ---
 title: "Front Door"
 slug: "front-door"
-date: 2022-02-11T23:17:14-08:00
+date: 2022-02-20T23:43:10-08:00
 draft: false
 categories:
 - Home Automation
