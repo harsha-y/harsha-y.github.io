@@ -2,6 +2,10 @@
 title: "Home Automation"
 date: 2022-02-11T23:17:14-08:00
 draft: false
+categories: 
+- Home Automation
+tags:
+- Projects
 ---
 
 Once I finally got to the point of being able to buy a home and call it my own, the options to automate away all the mundane things seemed limitless.
