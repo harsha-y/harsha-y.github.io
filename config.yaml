@@ -1,9 +1,0 @@
-baseURL: 'https://harsha-y.github.io'
-languageCode: en-us
-title: Harsha Yalamanchili
-theme: PaperMod
-enableGitInfo: true
-enableRobotsTXT: false
-taxonomies:
-  category: categories
-  tag: tags
